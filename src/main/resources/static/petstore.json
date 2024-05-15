@@ -1,0 +1,67 @@
+[
+  {
+    "speaks": "The dog goes woof! woof!",
+    "cost": 750.00,
+    "petId": 3,
+    "legs": 4,
+    "animalType": "DOMESTIC",
+    "petType": "DOG",
+    "skinType": "FUR",
+    "gender": "MALE",
+    "breed": "MALTESE",
+    "hasLegs": true,
+    "isMammal": false
+  },
+  {
+    "speaks": "The dog goes woof! woof!",
+    "cost": 650.00,
+    "petId": 1,
+    "legs": 4,
+    "animalType": "DOMESTIC",
+    "petType": "DOG",
+    "skinType": "FUR",
+    "gender": "MALE",
+    "breed": "POODLE",
+    "hasLegs": true,
+    "isMammal": false
+  },
+  {
+    "speaks": "The cat goes prr! prr!",
+    "cost": 65.00,
+    "petId": 1,
+    "legs": 4,
+    "animalType": "DOMESTIC",
+    "petType": "CAT",
+    "skinType": "HAIR",
+    "gender": "MALE",
+    "breed": "BURMESE",
+    "hasLegs": true,
+    "isMammal": false
+  },
+  {
+    "speaks": "The dog goes woof! woof!",
+    "cost": 50.00,
+    "petId": 2,
+    "legs": 4,
+    "animalType": "DOMESTIC",
+    "petType": "DOG",
+    "skinType": "HAIR",
+    "gender": "MALE",
+    "breed": "GERMAN_SHEPHERD",
+    "hasLegs": true,
+    "isMammal": false
+  },
+  {
+    "speaks": "The dog goes woof! woof!",
+    "cost": 225.00,
+    "petId": 4,
+    "legs": 4,
+    "animalType": "DOMESTIC",
+    "petType": "DOG",
+    "skinType": "FUR",
+    "gender": "FEMALE",
+    "breed": "GERMAN_SHEPHERD",
+    "hasLegs": true,
+    "isMammal": false
+  }
+]
